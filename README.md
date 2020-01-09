@@ -1,7 +1,7 @@
 # Angular 8 Template with UiKit SCSS
 
-*Clone
+* Clone
 
-*Rename Project
+* Rename Project
 
-*Profit
+* Profit
